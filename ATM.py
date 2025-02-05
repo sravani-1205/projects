@@ -1,5 +1,5 @@
 import datetime
-print('Welcome to SBI')
+print('Welcome to Pentagon Bank')
 user_pin=1234
 balance=10000
 print('Insert your ATM Card')
